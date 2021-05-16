@@ -1,3 +1,7 @@
+/***************************************************************************
+*Based on https://github.com/jash-git/C_CRC16/blob/master/CB_calcrc16/main.c
+*         https://www.cnblogs.com/skullboyer/p/8342167.html
+****************************************************************************/
 #include <iostream>
 #include <cstring>
 
