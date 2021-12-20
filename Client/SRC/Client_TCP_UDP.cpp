@@ -2,7 +2,7 @@
 *Based on https://blog.csdn.net/qq_28114615/article/details/88421575
 *         https://blog.csdn.net/qq_33406883/article/details/107173443
 *********************************************************************/
-#include "kbhit.h"
+//#include "kbhit.h"
 #include <iostream>
 #include <unistd.h>
 #include <sys/socket.h>

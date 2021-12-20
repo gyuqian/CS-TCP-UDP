@@ -5,7 +5,8 @@
 #include <iostream>
 #include <cstring>
 
-#define CRCMODE CRC16_XMODEM 
+#define CRCMODE CRC16_XMODEM
+ 
 using namespace std;
 
 unsigned short CRC16_XMODEM(unsigned char *puchMsg, unsigned int usDataLen)
