@@ -18,9 +18,3 @@ add_subdirectory(CRC)
 add_subdirectory(SERVER)
 add_subdirectory(CLIENT)
 
-
-#add_executable(CRC16 ${CRC16_DIR_SRCS})
-
-#set(CPACK_PROJECT_NAME ${PROJECT_NAME})
-#set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
-#include(CPack)
